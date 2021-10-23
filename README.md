@@ -1,2 +1,2 @@
 # RobloxRifle
-"does stuff" - Chris
+"does stuff" - @RecursiveMighty
