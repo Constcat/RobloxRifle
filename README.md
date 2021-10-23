@@ -1,2 +1,2 @@
 # RobloxRifle
-"does stuff" - @RecursiveMighty
+"does stuff" - @github/RecursiveMighty
