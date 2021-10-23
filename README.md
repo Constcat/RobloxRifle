@@ -1,1 +1,2 @@
 # RobloxRifle
+"does stuff" - Chris
